@@ -4,9 +4,9 @@ instance_class: F1 # this is the cheapest option
 
 env_variables:
   MYSQL_USER: 'root'
-  MYSQL_PASSWORD: 'root@123'
+  MYSQL_PASSWORD: '{Password}'
   MYSQL_DB: 'Task Manager'
-  MYSQL_HOST: '192.168.0.33'
+  MYSQL_HOST: '{IP Address}'
 
 handlers:
 
