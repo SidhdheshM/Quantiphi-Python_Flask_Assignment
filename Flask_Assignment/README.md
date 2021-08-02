@@ -8,7 +8,7 @@ python >= 3.5
 
 ## Getting started
 ```bash
-git clone {this repo link}
+git clone https://github.com/SidhdheshM/Quantiphi-Python_Flask_Assignment
 cd Flask_Assignment
 python -m venv .venv
 source .venv/bin/activate
